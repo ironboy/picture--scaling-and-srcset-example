@@ -2,16 +2,8 @@ body {
   margin: 20px;
 }
 
-picture {
+img {
   display: block;
   width: 50%;
   margin-bottom: 20px;
-}
-
-picture img {
-  width: 100%;
-}
-
-.resolution {
-  display: block;
 }

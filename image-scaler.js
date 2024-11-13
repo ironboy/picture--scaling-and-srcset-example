@@ -1,7 +1,7 @@
 // Documentation of sharp:
 // https://sharp.pixelplumbing.com
 
-// Documentation of webp:
+// Documentation of webp (a modern image format)
 // https://developers.google.com/speed/webp
 
 import fs from 'fs';
